@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amai-Mask
+- 👋 Hi, I’m @Amai-Mask (Munadim Ahsan Uosmoy)
 - 👀 I’m not interested in anything
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on -_-
