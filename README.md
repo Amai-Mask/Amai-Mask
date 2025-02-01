@@ -26,10 +26,10 @@
 ### About Me
 
 - 🏫 **Graduate Student** in Computer Science and Engineering at **Jahangirnagar University**
-- 🏫 Currently doing my M.Sc in Computer Science and Engineering at **Jahangirnagar University**  
-- 🔭 Currently working as a **Research and Development Engineer** at **Shanghai BDCOM Information Technology Co., Ltd.**  
+- 🏫 Currently doing my M.Sc in Computer Science and Engineering at **Jahangirnagar University**
+- 🔭 Currently working as a *Software Engineer* at **Samsung Research and Development Institute, Bangladesh**   
+- 🔭 Previously worked as a *Research and Development Engineer* at **Shanghai BDCOM Information Technology Co., Ltd.**  
 - 🌱 Have interest on **IoT**, **Mobile App Development**, **Competitive Programming** and **Frontend and Backend Development**  
-- ⚡ Fun Fact: I occasionally create apps just to explore new APIs and frameworks!
 
 ---
 
@@ -59,7 +59,3 @@
 </p>
 
 ---
-
-### Fun Fact 😄
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
