@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munadim Ahsan Uosmoy</h1>
-<h3 align="center">Working as a Software Engineer</h3>
-<h3 align="center">A passionate developer and tech enthusiast</h3>
+<h3 align="center">Working as a Software Engineer of SRBD</h3>
+<h3 align="center">A passionate developer and AI enthusiast</h3>
 
 ---
 
