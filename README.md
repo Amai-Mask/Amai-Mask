@@ -5,7 +5,7 @@ Software Engineer @ Samsung R&D Institute Bangladesh (SRBD)
 </h3>
 
 <h4 align="center">
-Backend • Distributed Systems • AI • Knowledge Graphs • Computer Vision
+Full Stack Engineer • Distributed Systems • AI • Knowledge Graphs • Computer Vision
 </h4>
 
 ---
