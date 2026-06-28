@@ -1,61 +1,81 @@
 <h1 align="center">Hi 👋, I'm Munadim Ahsan Uosmoy</h1>
-<h3 align="center">Working as a Software Engineer of SRBD</h3>
-<h3 align="center">A passionate developer and AI enthusiast</h3>
+
+<h3 align="center">
+Software Engineer @ Samsung R&D Institute Bangladesh (SRBD)
+</h3>
+
+<h4 align="center">
+Backend • Distributed Systems • AI • Knowledge Graphs • Computer Vision
+</h4>
 
 ---
+
+## 👨‍💻 About Me
+
+* 💼 Software Engineer at **Samsung R&D Institute Bangladesh (SRBD)**
+* 🌐 Currently building **yangN**, Samsung's internal network management platform using **React, Spring Boot, Microservices & Hexagonal Architecture**
+* 🧠 Previously developed **Project-X**, an ontology-driven knowledge engineering platform in collaboration with **Oxford Semantic Technologies (UK)**
+* 🤖 Built AI-powered applications including an **On-Device Intelligent Form Filling System** (SRBD AIPoC Finalist)
+* 📷 Inventor of a **Samsung A1 Patent** in Computational Photography
+* 🎓 M.Sc. Student in Computer Science & Engineering at **Jahangirnagar University**
+* 🏆 4× ACM ICPC Regionalist | Codeforces Expert | CodeChef 4★
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+C • C++ • Java • Kotlin • Python • JavaScript • TypeScript
+
+### Frontend
+
+React • Next.js • HTML • CSS • React Flow
+
+### Backend
+
+Java • Spring Boot • REST APIs • Microservices • Hexagonal Architecture
+
+### AI & Computer Vision
+
+Machine Learning • Deep Learning • Computer Vision • On-Device AI • Object Detection
+
+### Knowledge Graphs
+
+RDF • OWL • SPARQL • Knowledge Graphs • RDFox
+
+### Tools
+
+Git • Docker • Firebase • Android Studio • VS Code
+
+---
+
+## 🚀 Highlights
+
+* 🏅 Samsung **A1 Patent** – Computational Photography
+* 🤖 **Finalist** – SRBD AI Product of Code (AIPoC)
+* 🌍 Cross-border Agile collaboration with **Oxford Semantic Technologies**
+* 🧩 Problem Setter – IIUC Tech Fest IUPC, JU IDPC & CodeElevate Camp
+* 💻 2800+ Programming Problems Solved
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://linkedin.com/in/mndm
+* 💻 GitHub: https://github.com/Amai-Mask
+* 🏆 Codeforces: https://codeforces.com/profile/_mndm
+* ⭐ StopStalk: https://www.stopstalk.com/user/profile/Ahsan_Uosmoy
+* 📧 Email: [jucse28.383@gmail.com](mailto:jucse28.383@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Problem_Solving-4CAF50?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OOP-1E90FF?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Data_Structures_and_Algorithms-3E7BB6?style=for-the-badge&logo=algolia&logoColor=white"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amai-Mask&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Amai-Mask&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amai-Mask&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-### About Me
-
-- 🏫 **Graduate Student** in Computer Science and Engineering at **Jahangirnagar University**
-- 🏫 Currently doing my M.Sc in Computer Science and Engineering at **Jahangirnagar University**
-- 🔭 Currently working as a *Software Engineer* at **Samsung Research and Development Institute, Bangladesh**   
-- 🔭 Previously worked as a *Research and Development Engineer* at **Shanghai BDCOM Information Technology Co., Ltd.**  
-- 🌱 Have interest on **IoT**, **Mobile App Development**, **Competitive Programming** and **Frontend and Backend Development**  
-
----
-
-### My Skills 🚀
-
-- **Programming Languages:** Python, C, C++, JavaScript  
-- **Web Development:** HTML, CSS, JavaScript, React  
-- **Mobile Development:** Android (Java/Kotlin)  
-- **Tools & Platforms:** Git, Firebase, Docker, Arduino  
-
----
-
-### How to Reach Me 📫
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mndm/)  
-- 🏅 [StopStalk Profile](https://www.stopstalk.com/user/profile/Ahsan_Uosmoy)  
-- 🥇 [Codeforces Profile](https://codeforces.com/profile/_mndm)  
-- 📧 [Email](mailto:jucse28.383@gmail.com)
-
----
-
-### GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amai-Mask&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amai-Mask&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
